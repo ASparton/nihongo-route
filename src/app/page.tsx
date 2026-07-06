@@ -7,7 +7,7 @@ const PHASES = [
     weeks: "SEM. 1–2",
     jp: "基礎固め",
     fr: "Consolider les bases",
-    focus: "Révision condensée (は・が・を・に・で, これ/それ/あれ, X は Y です) + 終助詞 ね・よ・わ, degrés とても/あまり, あげる/くれる/もらう.",
+    focus: "Révision condensée (は・が・を・に・で, これ/それ/あれ, X は Y です) + 終助詞 ね・よ・わ, réactions どう/そう, あげる/くれる/もらう.",
   },
   {
     weeks: "SEM. 3–4",
@@ -46,7 +46,7 @@ const WEEKS = [
     num: "S1",
     dates: "04–10 juil.",
     grammar:
-      "Grande révision (kana, は/が/を/に/で, これ/それ/あれ, あります/います, X は Y です) · 終助詞 ね/よ/わ/かな · とても/あまり/すごく · あげる/くれる/もらう",
+      "Grande révision (kana, は/が/を/に/で, これ/それ/あれ, あります/います, X は Y です) · 終助詞 ね/よ/わ/かな · どう/そう (réactions) · あげる/くれる/もらう",
     kanji: "一二三四五六七八",
     phaseStart: true,
   },
@@ -182,8 +182,8 @@ const LESSONS = [
       },
       {
         href: "/lecons/semaine-1/lecon-3",
-        title: "Leçon 3 — とても・あまり・すごく",
-        meta: "exprimer un degré · kanji 五六",
+        title: "Leçon 3 — どう・そう : réagir en japonais",
+        meta: "そうですか / そうですね / なるほど · kanji 五六",
       },
       {
         href: "/lecons/semaine-1/lecon-4",

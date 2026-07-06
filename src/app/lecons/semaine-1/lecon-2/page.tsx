@@ -208,8 +208,8 @@ export default function Lecon2() {
         </section>
 
         <footer className="note">
-          Leçon 2 · semaine 1 — la leçon 3 continue avec とても・あまり・すごく,
-          pour dire à quel point quelque chose est vrai.
+          Leçon 2 · semaine 1 — la leçon 3 continue avec どう・そう, les
+          réactions les plus utiles d&apos;une conversation japonaise.
         </footer>
       </div>
     </>
